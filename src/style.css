@@ -28,8 +28,8 @@ body {
 }
 
 img {
-  max-width: 30%;
-  max-height: 30%;
+  max-width: 40%;
+  max-height: 40%;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
