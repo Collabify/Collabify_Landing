@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "name": "Android",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "iPhone",
+      "passwordProtected": true,
+      "password": "$$$"
+    },
+    {
+      "name": "WindowsMobile",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Blackberry",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "WebOS",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Ubuntu",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Windows7",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Max OS X",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Linux",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "OS/2",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "More",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "List",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Items",
+      "passwordProtected": false,
+      "password": null
+    },
+    {
+      "name": "Here",
+      "passwordProtected": false,
+      "password": null
+    }
+  ]
+}
